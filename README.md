@@ -6,7 +6,7 @@
 ### How to Use
 1. Pick two input colors
 2. Preview gradient background
-3. Once you have chosen a background, copy and paste the CSS property into your project
+3. Once you have chosen a background, copy and paste the CSS property into your project after `background:`
 
 ### Example
-`linear-gradient(to right, rgb(245, 239, 10), rgb(255, 0, 0));`
+`background: linear-gradient(to right, rgb(245, 239, 10), rgb(255, 0, 0));`
