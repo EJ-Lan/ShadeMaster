@@ -9,4 +9,4 @@
 3. Once you have chosen a background, copy and paste the CSS property into your project
 
 ### Example
-`background: linear-gradient(to right, red, yellow);`
+`linear-gradient(to right, rgb(245, 239, 10), rgb(255, 0, 0));`
