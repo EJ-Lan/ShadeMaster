@@ -1,5 +1,6 @@
 # ShadeMaster
 * Shade Master is a gradient background generator to aid in development of web dev projects
+* This Project is to Practice Vanilla CSS, HTML, and JavaScript
 * Pick a Gradient Background and Then Copy The Gradient into your CSS
 * The site is deployed for free via GitHub
 
